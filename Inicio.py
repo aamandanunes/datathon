@@ -35,5 +35,17 @@ if selected == "Modelo":
     st.write("Acreditamos que com um estudo aprofundado juntamente à ONG, outros dados relevantes poderão ser utilizados a fim de construir um modelo mais robusto.")
 
     prob_bolsista()
+    
+if selected == "Conclusão":
+    st.title("Conclusão")
+    st.write("Através da análise dos dados e informações apresentados, podemos concluir que a Passos Mágicos desempenha um papel crucial na vida das crianças e adolescentes atendidos, assim como nas famílias em situação de vulnerabilidade social. Os gráficos e indicadores revelam uma realidade desafiadora, onde a renda per capita é significativamente baixa.
+
+No entanto, é inspirador observar o impacto positivo que a Passos Mágicos tem gerado ao longo dos anos, com um crescimento notável no número de alunos atendidos. O compromisso da associação em oferecer educação de qualidade, aliado ao apoio psicopedagógico e ao acompanhamento individualizado, possibilita que essas crianças e adolescentes desenvolvam suas habilidades acadêmicas e socioemocionais, preparando-se para um futuro mais promissor.
+
+É notável também o investimento em programas de avaliação como o Indicador de Autoavaliação (IAA), o Indicador Psicopedagógico (IPP) e o Indicador do Ponto de Virada (IPV), que permitem uma compreensão mais ampla do desenvolvimento e das necessidades dos alunos, orientando as intervenções necessárias para promover o sucesso educacional e pessoal.
+
+Em resumo, a Passos Mágicos desempenha um papel transformador na vida de seus alunos, proporcionando oportunidades de crescimento e superação, e contribuindo para a construção de um futuro mais digno e próspero para as crianças e suas famílias.")
+
+
 
 
