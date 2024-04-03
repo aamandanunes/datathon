@@ -27,3 +27,6 @@ Para executar o dashboard localmente, siga estas etapas:
    ```
 
 5. **O dashboard será aberto em seu navegador padrão. Você poderá interagir com os gráficos e visualizar os dados.**
+
+ **Nosso link Streamlit:**
+ https://grupo40-fiap.streamlit.app/
