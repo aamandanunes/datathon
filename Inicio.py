@@ -38,9 +38,9 @@ if selected == "Modelo":
     
 if selected == "Conclusão":
     st.title("Conclusão")
-    st.write("
+    st.write(("""
     Através da análise dos dados e informações apresentados, podemos concluir que a Passos Mágicos desempenha um papel crucial na vida das crianças e adolescentes atendidos, assim como nas famílias em situação de vulnerabilidade social. Os gráficos e indicadores revelam uma realidade desafiadora, onde a renda per capita é significativamente baixa.
-")
+""")
     st.write("""
     No entanto, é inspirador observar o impacto positivo que a Passos Mágicos tem gerado ao longo dos anos, com um crescimento notável no número de alunos atendidos. O compromisso da associação em oferecer educação de qualidade, aliado ao apoio psicopedagógico e ao acompanhamento individualizado, possibilita que essas crianças e adolescentes desenvolvam suas habilidades acadêmicas e socioemocionais, preparando-se para um futuro mais promissor.
 """)
