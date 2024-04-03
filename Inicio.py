@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 with st.sidebar:
-    selected = option_menu("Datathon", ["Home", 'Sobre a Passos Mágicos','Análises','Modelo','Conclusão','Fontes'],
-        icons=['house', 'book', 'bar-chart', 'cloud-upload', 'book', 'gear'], menu_icon="cast", default_index=0)
+    selected = option_menu("Datathon", ["Home", 'Sobre a Passos Mágicos','Análises','Modelo','Conclusão'],
+        icons=['house', 'book', 'bar-chart', 'cloud-upload', 'book'], menu_icon="cast", default_index=0)
     # selected
 
 if selected == "Home":
