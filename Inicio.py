@@ -44,5 +44,7 @@ if selected == "Conclusão":
     st.write("""
     No entanto, é inspirador observar o impacto positivo que a Passos Mágicos tem gerado ao longo dos anos, com um crescimento notável no número de alunos atendidos. O compromisso da associação em oferecer educação de qualidade, aliado ao apoio psicopedagógico e ao acompanhamento individualizado, possibilita que essas crianças e adolescentes desenvolvam suas habilidades acadêmicas e socioemocionais, preparando-se para um futuro mais promissor.
 """)
-
+    st.write("""
+    Em resumo, a Passos Mágicos desempenha um papel transformador na vida de seus alunos, proporcionando oportunidades de crescimento e superação, e contribuindo para a construção de um futuro mais digno e próspero para as crianças e suas famílias.
+""")
 
